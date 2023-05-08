@@ -70,13 +70,13 @@ Stop Time	2023-05-07 09:12:53
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0
 
-SecurityEvent (-98.27%)
-Syslog (-100%)
-SecurityAlert (-100%)
-SecurityIncident (-100%)
-AzureNetworkAnalytics_CL (-100%)
+|SecurityEvent (-98.27%)|
+|Syslog (-100%)         |
+|SecurityAlert (-100%)  |
+|SecurityIncident (-100%)|
+|AzureNetworkAnalytics_CL (-100%)|
 
-Azure Secure Score: 30% to 77%
+|Azure Secure Score: 30% to 77%|
 
 ## Conclusion
 
